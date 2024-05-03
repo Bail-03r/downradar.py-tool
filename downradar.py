@@ -47,4 +47,4 @@ class comments:
 
 
 if __name__ == '__main__':
-    raise Exception("Это библеотека!")
+    raise Exception("Это библиотека!")
