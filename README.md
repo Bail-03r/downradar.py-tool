@@ -5,7 +5,7 @@
 для начала установите [ffmpeg](https://ffmpeg.org/) и положите в папку с библеотекой
 
 ```py
-import downradar #ставим библеотеку
+import downradar #ставим библиотеку
 ```
 
 пример page
