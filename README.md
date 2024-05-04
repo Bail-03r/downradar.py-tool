@@ -18,7 +18,7 @@ page.ping() #отправляем запросы то что не работае
 
 пример comments
 ```py
-comments = downradar.comments() #id комментария можно узнать при наведении на решётку возле имени
+comments = downradar.comments(1337) #id комментария можно узнать при наведении на решётку возле имени
 
 comments.dislike() #думаю тут всё понятно нравится и не нравится
 for i in range(5):
